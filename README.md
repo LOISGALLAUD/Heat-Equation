@@ -1,4 +1,4 @@
-<img src="IMAGES/tps-logo.png">
+<img src="PMI_projet_Python/IMAGES/tps-logo.png">
 
 # **PROJET MATHEMATIQUES INFORMATIQUE**
 # ***Equation de la chaleur***
